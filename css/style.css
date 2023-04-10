@@ -60,7 +60,6 @@ body {
   line-height: 1.17;
   list-style: none;
   display: flex;
-  padding-right: 46px;
 }
 .link-nav:hover,
 .link-nav:focus {
@@ -76,7 +75,7 @@ body {
   gap: 50px;
   display: flex;
   align-items: center;
-  gap: 30px;
+  gap: 10px;
 }
 .contact:hover,
 .contact:focus {
@@ -107,6 +106,7 @@ body {
   color: var(--main-font-color);
   line-height: 1.17;
   margin-bottom: 10px;
+  margin-top: 30px;
 }
 .description {
   font-weight: 400;
@@ -230,7 +230,7 @@ body {
   padding-top: 24px;
   padding-bottom: 24px;
   list-style: none;
-  gap: 30px;
+  gap: 46px;
   margin-right: 150px;
 }
 .hd-border {
